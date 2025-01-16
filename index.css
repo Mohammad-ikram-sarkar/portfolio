@@ -178,9 +178,15 @@ li a:hover::after{
     
    
     
-    
    
 
+  }
+  .home{
+   
+  }
+
+   .home .info{
+    
   }
 
   .home .info p{
@@ -188,7 +194,7 @@ li a:hover::after{
 
   }
   .home .info h1{
-    font-size: 30px;
+    font-size: 60px;
   }
 }
 
@@ -276,7 +282,7 @@ li a:hover::after{
   }
   .info-content .image-1 img{
     border: 2px solid black;
-    width: 20vh;
+    width: 31vh;
   }
   .about-conteant{
     display: flex;
@@ -290,3 +296,4 @@ li a:hover::after{
   }
   
 }
+
